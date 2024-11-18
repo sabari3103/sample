@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 0%;
+}
+h1{
+    text-align: center;
+    color: rgb(217, 33, 140);
+    background-color: rgb(58, 213, 227);
+
+   
+
+    
+    
+    
+}
+
+h3{
+    margin-bottom: 30px;
+    color: rgb(64, 108, 219);
+}
+form{
+    text-align: center;
+    
+    
+}
+input{
+    border-radius: 5px;
+    border-style:solid;
+}
+
+.container{
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    margin-left: 600px;
+
+
+}
+
